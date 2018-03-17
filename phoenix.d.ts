@@ -1,6 +1,3 @@
-// Phoneix 2.0 type definitions
-// Author: teaearlgraycold
-
 declare module "phoenix" {
 
 interface Response {
