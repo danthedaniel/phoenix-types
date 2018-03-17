@@ -116,9 +116,9 @@ export class Socket {
   timeout: number;
   transport: SocketTransport;
   defaultEncoder: Encoder<string>;
-  defaultDecoder: Encoder<any>;
+  defaultDecoder: Decoder<any>;
   encode: Encoder<any>;
-  decode: Encoder<any>;
+  decode: Decoder<any>;
   heartbeatIntervalMs: number;
   reconnectAfterMs: number | ((tries: number) => number);
   logger?: Logger;
