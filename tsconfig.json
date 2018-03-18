@@ -1,0 +1,6 @@
+{
+  "compileOnSave": false,
+  "include": [
+    "phoenix.d.ts"
+  ]
+}
