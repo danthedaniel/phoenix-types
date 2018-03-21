@@ -1,21 +1,14 @@
-phoenix-typings
+phoenix-types
 ===
+
+[![npm version](https://badge.fury.io/js/phoenix-types.svg)](https://badge.fury.io/js/phoenix-types) [![MIT License](https://img.shields.io/packagist/l/doctrine/orm.svg)]()
 
 Types for the Phoenix Framework JS Library version 1.3.0.
 
 ## Installation
 
-This isn't available on a repo. You can add it via a git directive to your
-package.json file.
-
-```javascript
-{
-  ...
-  "devDependencies": {
-    ...
-    "phoenix-typings": "git://github.com/teaearlgraycold/phoenix-typings.git"
-  }
-}
+```bash
+npm install -S phoenix-types
 ```
 
 ## Usage

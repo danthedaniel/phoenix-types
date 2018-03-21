@@ -420,7 +420,7 @@ export class Ajax {
     accept: string,
     body: string,
     timeout: number,
-    ontimeout?: any,
+    ontimeout?: Function,
     callback?: Function
   ): void;
 

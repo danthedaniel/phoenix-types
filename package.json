@@ -3,15 +3,25 @@
     "name": "teaearlgraycold",
     "url": "https://github.com/teaearlgraycold"
   },
+  "types": "phoenix.d.ts",
+  "typings": "phoenix.d.ts",
   "license": "MIT",
   "dependencies": {},
-  "description": "Type definitions for phoenix.js bundled in Phoneix Framework.",
+  "description": "Templated type definitions for phoenix.js bundled in Phoneix Framework.",
   "devDependencies": {},
-  "name": "phoenix-typings",
+  "name": "phoenix-types",
   "optionalDependencies": {},
   "scripts": {},
   "typescript": {
     "definition": "phoenix.d.ts"
+  },
+  "bugs": {
+    "url": "https://github.com/teaearlgraycold/phoenix-types/issues"
+  },
+  "homepage": "https://github.com/teaearlgraycold/phoenix-types",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teaearlgraycold/phoenix-types.git"
   },
   "version": "0.1.0"
 }
